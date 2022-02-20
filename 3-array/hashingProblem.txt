@@ -1,0 +1,14 @@
+HashSet problem:
+	1) Count distinct elements
+	2) Find Union and Intersection of two unsorted arrays
+    3) Find Union and Intersection of two sorted arrays
+	4) Find missing elements of a range
+	5) Longest Consecutive Subsequence
+
+HashMap problem:
+	1) Find subarray with given sum
+	2) Largest subarray with equal number of 0s and 1s
+    3) Find the length of largest subarray with 0 sum
+	4) Count distinct elements in every window of size k 
+	5) Longest sub-array having sum k
+	6) Check If Array Pairs Are Divisible by k

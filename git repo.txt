@@ -1,0 +1,28 @@
+Git working
+first is working directory --- second is staging area --- git directory/repository
+
+Configuration for git bash only once
+git config --global user.name your_name
+git config --global user.email your_email
+
+checking
+git config --global user.name
+git config --global user.email
+############################################################
+
+git init // This Command initialize folder as empty git repo
+git add . // This Command add all files present in current directory
+
+git commit -m "initial commit" // This command will commit/save all changes
+check status command is git status // everything okay
+
+git remote add origin link_here_of_your_repo_SSH_wala // You have to add remote origin means yesi website or server which will save our code 
+git push origin master or git push origin master --force // It will push/upload your code on website
+
+
+git pull origin master // For pulling code
+git log // If you want to see kisne kya changes kiya your repo me use this cmd
+git branch // To see what branch you are using
+git show ssh_key // Review your changes
+git diff file_name // Review your changes
+git diff --staged file_name // To see staged file changes
